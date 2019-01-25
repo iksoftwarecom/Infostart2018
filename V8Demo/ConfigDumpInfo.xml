@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.7">
+	<ConfigVersions>
+		<Metadata name="CommonForm.ФормаНачалаРаботы" id="0c1d3543-9373-4fa1-8648-721dded3004c" configVersion="04bc3d8f0630c447b13607c270e2f4a600000000"/>
+		<Metadata name="CommonForm.ФормаНачалаРаботы.Form" id="0c1d3543-9373-4fa1-8648-721dded3004c.0" configVersion="c867286919e27d4387de68a56c7342b300000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент" id="26633231-77fa-4839-9a27-a61bea301be1" configVersion="564208d6dfa28a4b99be12cb4e1dd9b400000000"/>
+		<Metadata name="CommonModule.ОбщегоНазначенияКлиент.Module" id="26633231-77fa-4839-9a27-a61bea301be1.0" configVersion="503fe672db53ab4aa047f8babf9ac4ac00000000"/>
+		<Metadata name="CommonTemplate.Компонента" id="6f192001-0b72-4b2b-88a0-cfe267f3ffc8" configVersion="2224cf863f421249acf81bd5caa0db0c00000000"/>
+		<Metadata name="CommonTemplate.Компонента.Template" id="6f192001-0b72-4b2b-88a0-cfe267f3ffc8.0" configVersion="cad249ab0e2d584786f487984de56acd00000000"/>
+		<Metadata name="Configuration.Infostart2018" id="9ae85d5e-4751-45c7-a602-fdac48ca95e5" configVersion="d848b535805f0b4a9b78f94dfe6d688700000000"/>
+		<Metadata name="Configuration.Infostart2018.HomePageWorkArea" id="e6776e27-03b6-4530-8933-08844a9ec01c.8" configVersion="4832569723f1ae4481824df6c1a3ed9d00000000"/>
+		<Metadata name="Configuration.Infostart2018.ManagedApplicationModule" id="e6776e27-03b6-4530-8933-08844a9ec01c.6" configVersion="1184168239e4bd488f96c69f08a03a8d00000000"/>
+		<Metadata name="Language.Русский" id="b3632e22-ee03-408f-8515-da02dd8a5c4c" configVersion="5feafe3577e6d94abdb5c73c3f1d924c00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
